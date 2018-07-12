@@ -1,1 +1,1 @@
-# AssociationRules-for-EDM
+# Association Rules for Educational Data Mining
